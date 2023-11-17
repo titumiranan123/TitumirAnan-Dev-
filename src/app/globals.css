@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn {
+  @apply rounded-s-full rounded-e-full text-[#FFFFFF] border py-[10px] px-[14px]
+}
+
+.padding {
+  padding: 61px 120px 0;
+}
